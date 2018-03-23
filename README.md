@@ -105,3 +105,6 @@ See the COPYING.lib file for more information.
 * [Website](http://qjson.sourceforge.net/)
 * [Mailing List](https://lists.sourceforge.net/mailman/listinfo/qjson-devel)
 * Project Lead/Maintainer (2008-current): [Flavio Castelli](mailto:flavio@castelli.name).
+
+使用方法：
+  https://www.devbean.net/2013/09/qt-study-road-2-qjson/
